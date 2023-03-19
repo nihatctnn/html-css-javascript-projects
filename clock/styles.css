@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#clock {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100vh;
+}
+
+#clock #time {
+    display:flex;
+}
+
+#clock #time div{
+    position: relative;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0004);
+}
+
+#clock #time div span{
+    display: block;
+    width: 100px;
+    height: 65px;
+    font-weight: 300px;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .2);
+}

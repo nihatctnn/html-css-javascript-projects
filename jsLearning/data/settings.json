@@ -1,0 +1,14 @@
+{
+    "userName": "user001",
+    "password": 1453,
+    "serverIp": "127.0.0.1.1",
+    "serverName": "nihatcetin.com",
+    "isAuth": true,
+    "IDs": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}

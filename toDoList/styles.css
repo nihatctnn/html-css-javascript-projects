@@ -1,0 +1,11 @@
+* {
+    font-family: 'Prociono', serif;
+}
+
+#push {
+    width: 15%;
+}
+
+body {
+    background-image: url(images/background.jpg);
+}
